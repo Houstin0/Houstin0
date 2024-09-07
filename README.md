@@ -1,7 +1,6 @@
 <h1 align="center">Hello World! 👋, I'm Houstin Angwenyi</h1>
 <h3 align="center">A passionate Full-Stack Developer from Kenya with expertise in building functional, user-friendly websites and web applications. I specialize in both front-end and back-end development, crafting amazing user interfaces and efficient back-end services.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=houstin0" alt="houstin0" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -176,7 +175,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houstin0&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="houstin0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houstin0&show_icons=true&theme=tokyonight&locale=en" alt="houstin0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houstin0&theme=dark" alt="houstin0" /></p>
 

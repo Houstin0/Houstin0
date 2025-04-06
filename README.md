@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Kenya with expertise in building functional, user-friendly websites and web applications. I specialize in both front-end and back-end development, crafting amazing user interfaces and efficient back-end services.</h3>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://houstin.onrender.com/](https://houstin.onrender.com/)
 
